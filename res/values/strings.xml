@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Volume Recall</string>
+    <string name="settings_textview">@string/app_name</string>
+    <string name="switcher_notify_info">Switching volume profile.</string>
+</resources>
